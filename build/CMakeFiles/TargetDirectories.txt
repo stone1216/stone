@@ -1,0 +1,3 @@
+/home/stone/workspace/future_net/build/CMakeFiles/edit_cache.dir
+/home/stone/workspace/future_net/build/CMakeFiles/rebuild_cache.dir
+/home/stone/workspace/future_net/build/CMakeFiles/future_net.dir
